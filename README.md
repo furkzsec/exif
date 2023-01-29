@@ -1,7 +1,7 @@
 
 # Exif
 
-Python Kullanılarak yapılmış basit bir chat uygulaması.
+Python Kullanılarak yapılmış Exif Tool.
 ## Kullanılan Teknolojiler
 
 **Dil:** Python
