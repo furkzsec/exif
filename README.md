@@ -14,7 +14,7 @@ Python Kullanılarak yapılmış Exif Tool.
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/fuekihigh/exif
+  git clone https://github.com/fuekisecurity/exif
 ```
 
 Proje dizinine gidin
@@ -32,5 +32,5 @@ Kodu çalıştırın
   
 ## Geri Bildirim
 
-Herhangi bir geri bildiriminiz varsa, lütfen fuekihigh Instagram adresinden bize ulaşın.
+Herhangi bir geri bildiriminiz varsa, lütfen fuekisecurity Instagram adresinden bize ulaşın.
   
